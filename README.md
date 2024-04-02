@@ -9,7 +9,17 @@ All Projects are linked below (with key visuals)
 
 ### Image Classification
 [Image Classification](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/cdba57d2e8b24a9e3f5e69fcb7144bc7d5a6e58c/01%20-%20Basics/Image%20Classification/Deep%20Neural%20Network%20Application.ipynb)
-
-![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/132b9728-2ae8-471f-ac55-0fd8596efe6b)
 ![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/e3bfabd6-1e7c-4fb0-9532-d7a3afc57381)
 ![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/f4f15775-652e-4173-8057-da06b7749416)
+
+### Logistic Regression
+[Logistic Regression](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/d0edd23ef6edffcf0a35d84c5083fe9bdad6c9de/01%20-%20Basics/Logistic%20Regression/Logistic.ipynb)
+![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/bf7ad202-4cc6-4ecc-a4de-b665e48fb9d1)
+
+### Planar Data Classification
+[Planar Data Classification](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/d0edd23ef6edffcf0a35d84c5083fe9bdad6c9de/01%20-%20Basics/Planar%20Data%20Classification%20(One%20Hidden%20Layer)/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/0f456fca-fb21-4191-b69d-319519cd816e)
+
+## Improving DNNs
+
+
