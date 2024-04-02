@@ -31,7 +31,15 @@ Built a neural network, which will have a hidden layer.
 
 
 [Planar Data Classification](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/d0edd23ef6edffcf0a35d84c5083fe9bdad6c9de/01%20-%20Basics/Planar%20Data%20Classification%20(One%20Hidden%20Layer)/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+
 ![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/0f456fca-fb21-4191-b69d-319519cd816e)
+
+
+## Gradient Checking
+- backpropogation
+- 1-dimensional gradient checking
+- N-dimensional gradient checking
+
 
 
 
