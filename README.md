@@ -5,8 +5,9 @@ All Projects are linked below (with key visuals)
 ## Autonomous Driving Car
 - Use object detection on a car detection dataset
 - Deal with bounding boxes
-[Auto Driving Car](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/ac068ebb752442e9593ce6d09351a4775ad7516c/03%20-%20Convolutional%20Neural%20Networks/Deep%20Convolutional%20Models/ResNets/Residual_Networks.ipynb)
 
+[Auto Driving Car](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/ac068ebb752442e9593ce6d09351a4775ad7516c/03%20-%20Convolutional%20Neural%20Networks/Deep%20Convolutional%20Models/ResNets/Residual_Networks.ipynb)
+    
 ![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/d1cd9c25-8d98-4d7f-bbe5-0bb88921f6a7)
 
 ## Art Generation
@@ -27,7 +28,7 @@ All Projects are linked below (with key visuals)
 
 [Character-Language Model](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/ac068ebb752442e9593ce6d09351a4775ad7516c/04%20-%20Sequence%20Models/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)  
 
-Trigger Word Detection
+## Trigger Word Detection
 - Structure a speech recognition project
 - Synthesize and process audio recordings to create train/dev datasets
 - Train a trigger word detection model and make predictions
