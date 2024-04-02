@@ -12,8 +12,11 @@ All Projects are linked below (with key visuals)
 
 ![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/f4f15775-652e-4173-8057-da06b7749416)
 
+
 ## Logistic Regression
-Built a logistic regression classifier to recognize cats:
+Built a logistic regression classifier to recognize cats
+
+    
 
 [Logistic Regression](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/d0edd23ef6edffcf0a35d84c5083fe9bdad6c9de/01%20-%20Basics/Logistic%20Regression/Logistic.ipynb)
 
@@ -25,8 +28,11 @@ Built a neural network, which will have a hidden layer.
 - Use units with a non-linear activation function, such as tanh
 - Compute the cross entropy loss
 - Implement forward and backward propagation
+
+
 [Planar Data Classification](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/blob/d0edd23ef6edffcf0a35d84c5083fe9bdad6c9de/01%20-%20Basics/Planar%20Data%20Classification%20(One%20Hidden%20Layer)/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
 ![image](https://github.com/ri-shenvi/Deep-Learning-Neural-Networks/assets/117927570/0f456fca-fb21-4191-b69d-319519cd816e)
+
 
 
 
